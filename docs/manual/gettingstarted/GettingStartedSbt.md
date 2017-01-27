@@ -50,7 +50,7 @@ my-first-system          → Project root
 
 ## Running Lagom services
 
-Lagom includes a development environment that let you start all your services by simply typing `runAll` in the activator console. Open the terminal and `cd` to your Lagom project:
+Lagom includes a development environment that lets you start all your services by simply typing `runAll` in the activator console. Open the terminal and `cd` to your Lagom project:
 
 ```console
 $ cd my-first-system
